@@ -11,7 +11,7 @@ The data for the *theater* category is taken from the years 2009 to 2017.
 
 ### Analysis of Outcomes Based on Launch Date
 To analyze *Outcomes based on launch date*, we examine variation in success rates of all theater projects throughout the year (month to month). The following graph displays these findings:
-![Outcomes Based on Launch Date Findings][Theater_Outcomes_vs_Launch.png]
+![Outcomes Based on Launch Date Findings][resources/Theater_Outcomes_vs_Launch.png]
 
 ### Analysis of Outcomes Based on Goals
 
