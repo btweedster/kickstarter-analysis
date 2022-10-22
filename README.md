@@ -36,9 +36,8 @@ Several challenges or difficulties arise in interpreting the above analyses:
 
 - December is the worst time to launch a *theater* campaign, seeing almost an equal number of successes as failures.
 
-- It is most advisable to set a goal less than $5,000. The vast majority of projects succeed with these lower goals. As one increases a project's goal, generally it is more likely to fail.
+- It is most advisable to set a goal less than $5,000 for *play* projects. The vast majority of projects succeed with these lower goals. As one increases a project's goal, generally it is more likely to fail.
 
-- What are some limitations of this dataset?
+- The largest limitation of this dataset is that the most recent data is from 2017. Therefore it is not only five years out of date, but the nature of the various categories and subcategories of projects may have significantly changed due to COVID-19 and the more recent rising inflation. More recent data could confirm the validity of this data set, or it guide one to make more appropriate decisions.
 
-- What are some other possible tables and/or graphs that we could create?
-1. 
+- As stated above in point 3 of *Challenges and Difficulties Encountered*, it would be wise to perform a multivariable analysis: how time of year **and** project goal affect outcome.
